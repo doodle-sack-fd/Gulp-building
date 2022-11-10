@@ -1,0 +1,13 @@
+.news {
+    text-transform: uppercase;
+    color: blue;
+    display: flex;
+    justify-content: space-around;
+}
+.h1{font-family: serif;}
+
+@media (max-width: 700px) {
+	.news{
+		display: block;
+	}
+}

@@ -1,0 +1,10 @@
+.title {
+    text-transform: uppercase;
+}
+
+@media (max-width: 700px) {
+	.title{
+		color:brown;
+		background-color: black
+	}
+}

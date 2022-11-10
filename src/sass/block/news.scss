@@ -1,0 +1,13 @@
+.news {
+    text-transform: uppercase;
+    color: rgb(255, 170, 0);
+    font-size: $base-font-size;
+    display: flex;
+    justify-content: space-around;
+    
+    @include ph {
+        display: block;
+    }
+}
+.h1{font-family: serif;}
+

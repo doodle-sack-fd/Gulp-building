@@ -1,0 +1,9 @@
+.title {
+    text-transform: uppercase;
+
+
+	@include ph {
+	color: brown;
+	}
+}
+
